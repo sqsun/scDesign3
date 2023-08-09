@@ -11,7 +11,7 @@ Description: We present a statistical simulator, scDesign3, to generate realisti
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: false
-Depends: R (>= 4.2.0)
+Depends: R (>= 4.0.0)
 Imports:
     dplyr,
     tibble,
